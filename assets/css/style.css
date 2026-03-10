@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .main-content{
-    max-width: 60vw;
+    max-width: 68.3vw;
     min-width: 30vw;
     padding-left: 20rem;
     padding-right: 20rem;
@@ -99,3 +99,11 @@ h1, h2, h3, h4, h5, h6{
     width: 100vw;
 }
 
+.main-content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 20rem;
+    height: 20rem;
+}
